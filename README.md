@@ -1,7 +1,7 @@
 # AIML-BATCH-10_2203A51519_s.varshitha
 
 1.[lab-01](https://github.com/2203A51519/AIML-BATCH-10/blob/main/Lab_01.ipynb)
-2.[lan-02](https://github.com/2203A51519/AIML-BATCH-10/blob/main/Lab_02.ipynb)
+2.[lab-02](https://github.com/2203A51519/AIML-BATCH-10/blob/main/Lab_02.ipynb)
 3.[lab-03](https://github.com/2203A51519/AIML-BATCH-10/edit/main/README.md)
 4.[LAB-04](https://github.com/2203A51519/AIML-BATCH-10/edit/main/README.md)
 5.[lab-05](https://github.com/2203A51519/AIML-BATCH-10/blob/main/lab_05.ipynb)
