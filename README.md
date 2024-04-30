@@ -10,6 +10,6 @@
 8.[lab-08](https://github.com/2203A51519/AIML-BATCH-10/blob/main/lab_08.ipynb)
 9.[lab-09](https://github.com/2203A51519/AIML-BATCH-10/blob/main/lab_09.ipynb)
 10.[lab-10](https://github.com/2203A51519/AIML-BATCH-10/blob/main/lab_10.ipynb)
-
+11.[aiml_project](https://github.com/2203A51519/AIML-BATCH-10/blob/main/aiml_project.ipynb)
 
 
